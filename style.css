@@ -1,0 +1,52 @@
+        .Carousel-inner {
+            background: gray;
+            align: center;
+        }
+        
+        #myCarousel p {
+            color: black;
+            text-decoration: underline;
+            text-decoration-color: aliceblue;
+        }
+        
+        #myCarousel img {
+            width: 50%;
+            height: auto;
+            align-content: center;
+            margin: auto;
+            background-color: royalblue;
+        }
+        
+        .jumbotron {
+            background-color: azure;
+            font-size: 30px;
+            font-style: oblique;
+        }
+        
+        h2 {
+            text-align: center;
+            text-decoration-color: Blue;
+        }
+        
+        #grid img {
+            align-content: center;
+            height: 100px;
+            width: 100px;
+        }
+        
+        #grid2 img {
+            width: 50%;
+            height: auto;
+            margin: auto;
+           
+        }
+        
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .container text {
+            padding-left: 20px;
+        }
